@@ -1,4 +1,4 @@
-# wifi-remote-arduino
+# wifi-remote-arduino(esp8266)
 this code run on esp8266 wemos D1R1, with arduino LCD shield
 at first, it will try to connect to a wifi using ssid and password store in its eeprom,
 
