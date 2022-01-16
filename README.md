@@ -18,5 +18,5 @@ config mode also have a checkbox "to control".
 
 this origionally intended to control servo motors, thats why the slide bar value are from 0 to 180.
 
-by the way, the control mode webpage have some fancy javascript to change background color according to slide bar value
+by the way, the control mode webpage have some fancy javascript to change background color according to slide bar value.
 I also slip some small delay() inside, to prevent esp8266 from lagging(cuz that happen)
